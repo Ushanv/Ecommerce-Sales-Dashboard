@@ -89,4 +89,6 @@ This dashboard helps businesses:
 * Integrate real-time data
 * Enhance dashboard interactivity
 
+  Screenshot:
+  Eg: https://github.com/Ushanv/Ecommerce-Sales-Dashboard/blob/main/Ecommerce%20Sales%20Dashboard.png
 ---

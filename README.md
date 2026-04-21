@@ -55,10 +55,12 @@ https://github.com/Ushanv/Ecommerce-Sales-Dashboard
 
 ## 🚀 Key Insights
 
-* 📌 Highest sales observed during festive months (Oct–Dec)
-* 📌 Certain product categories contribute major revenue share
-* 📌 Few states dominate total sales → expansion opportunity
-* 📌 Specific customers contribute high revenue (top customers)
+* 📌 Sales peak during October–December, indicating strong seasonal demand during festive periods
+* 📌 A few product categories contribute the majority of total revenue, showing dependency on specific segments
+* 📌 Certain states/regions generate higher sales, highlighting key markets for business growth
+* 📌 Some regions show high sales but low profit, indicating potential cost or discount issues
+* 📌 A small group of customers contributes significantly to revenue (high-value customers)
+
 
 ---
 

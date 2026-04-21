@@ -55,12 +55,19 @@ https://github.com/Ushanv/Ecommerce-Sales-Dashboard
 
 ## 🚀 Key Insights
 
-* 📌 Sales peak during October–December, indicating strong seasonal demand during festive periods
-* 📌 A few product categories contribute the majority of total revenue, showing dependency on specific segments
-* 📌 Certain states/regions generate higher sales, highlighting key markets for business growth
-* 📌 Some regions show high sales but low profit, indicating potential cost or discount issues
-* 📌 A small group of customers contributes significantly to revenue (high-value customers)
+* 📌 Total Sales generated is approximately ₹3.37 Lakhs, with an overall positive profit trend
 
+* 📌 Maharashtra is the top-performing state with the highest sales (~₹1,02,498), making it a key revenue region
+
+* 📌 Electronics category contributes the highest revenue (~₹1.66 Lakhs), followed by Clothing and Furniture
+
+* 📌 Sales peak in January, March, and November, indicating strong seasonal demand periods
+
+* 📌 Profit drops significantly in May, July, September, and December, showing potential cost or discount issues
+
+* 📌 Some months generate good sales but low or negative profit, indicating inefficiencies in pricing or operations
+
+* 📌 Top customers like Harivansh and Madhav contribute significantly to revenue, showing high-value customer segments
 
 ---
 
@@ -72,6 +79,15 @@ https://github.com/Ushanv/Ecommerce-Sales-Dashboard
 * Improves customer targeting and retention strategies
 
 ---
+## 💡 Business Recommendations
+
+* 📌 Focus marketing and inventory planning during high-sales months (Jan, Mar, Nov)
+* 📌 Improve pricing strategy during low-profit months to reduce losses
+* 📌 Expand business operations in Maharashtra to maximize revenue
+* 📌 Promote Electronics category further as it drives the highest sales
+* 📌 Introduce loyalty programs for top customers to retain high-value users
+* 📌 Analyze cost structure in loss-making months to improve profitability
+
 
 ## 📁 Files Included
 

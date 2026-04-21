@@ -55,19 +55,12 @@ https://github.com/Ushanv/Ecommerce-Sales-Dashboard
 
 ## 🚀 Key Insights
 
-* 📌 Total Sales generated is approximately ₹3.37 Lakhs, with an overall positive profit trend
-
-* 📌 Maharashtra is the top-performing state with the highest sales (~₹1,02,498), making it a key revenue region
-
-* 📌 Electronics category contributes the highest revenue (~₹1.66 Lakhs), followed by Clothing and Furniture
-
-* 📌 Sales peak in January, March, and November, indicating strong seasonal demand periods
-
-* 📌 Profit drops significantly in May, July, September, and December, showing potential cost or discount issues
-
-* 📌 Some months generate good sales but low or negative profit, indicating inefficiencies in pricing or operations
-
-* 📌 Top customers like Harivansh and Madhav contribute significantly to revenue, showing high-value customer segments
+* 📌 Total Sales reached ₹3.37 Lakhs, showing steady business performance
+* 📌 Maharashtra contributes the highest sales (~₹1.02 Lakhs), making it the primary revenue-driving state
+* 📌 Electronics category dominates with ~49% of total sales, indicating strong demand
+* 📌 Sales peak in January, March, and November, highlighting seasonal buying trends
+* 📌 Profit drops in mid-year months (May–July), suggesting pricing or cost inefficiencies
+* 📌 Top customers contribute a significant share of revenue, indicating dependency on high-value customers
 
 ---
 
